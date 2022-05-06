@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tiankaima/tiankaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tiankaima.tiankaima&left_color=green&right_color=red)
 
-Here are some ideas to get you started:
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=tiankaima)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Projects working on:**
+
+https://github.com/tiankaima/PhiStudioiOS
+
+http://github.com/Pangolin-USTC/Pangolin
+
+**Sponsorship:**
+
+https://afdian.net/@tiankaima
