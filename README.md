@@ -7,9 +7,7 @@
 
 **Projects working on:**
 
-https://github.com/tiankaima/PhiStudioiOS
-
-http://github.com/Pangolin-USTC/Pangolin
+(private) https://github.com/tiankaima/PhiStudio-v2
 
 **Sponsorship:**
 
