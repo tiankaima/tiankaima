@@ -5,16 +5,24 @@
 [![My Github Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tiankaima)]()
 
 
-**Projects working on:**
+### Projects working on
 
-(private) https://github.com/tiankaima/PhiStudio-v2
+#### Life @ USTC
 
-(public) https://github.com/tiankaima/Life-USTC
+* https://github.com/tiankaima/Life-USTC
+* https://github.com/tiankaima/Life-USTC-Backend
+* https://github.com/tiankaima/Life-USTC-Web
+* https://github.com/tiankaima/Life-USTC-Bot
 
-(schoolwork) https://github.com/tiankaima/thesis
 
-(mini-program) https://github.com/tiankaima/uniapp-quiz
+#### Schoolwork
 
-**Sponsorship:**
+https://github.com/tiankaima/thesis
+
+#### mini-program
+
+https://github.com/tiankaima/uniapp-quiz
+
+#### Sponsorship
 
 https://afdian.net/@tiankaima
