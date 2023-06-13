@@ -78,6 +78,14 @@
   * https://github.com/tiankaima/touch-bar-simulator
   * https://github.com/tiankaima/KeyboardShortcuts
 
-### Sponsorship
+## Sponsorship
 
 https://afdian.net/@tiankaima
+
+## Contact
+
+```txt
+tiankaima A mail.ustc.edu.cn
+tiankaima A 163.com
+tiankaima A ustclug.org
+```
