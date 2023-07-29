@@ -1,86 +1,16 @@
-### Hi there 👋
+# Projects working on
 
-[![My Github Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tiankaima)]()
+## Life @ USTC
 
+| Icon |  Repo | Deprecated |
+---|---|---
+|  <img src="https://github.com/Life-USTC/Life-USTC/blob/main/Docs/Assets/AppIcon.png" width="200" height="200">  | Main iOS Project: <br/> [Life-USTC/Life-USTC](https://github.com/Life-USTC/Life-USTC) <br/> Static Hugo Site: <br/> [Life-USTC/LU_Web](https://github.com/Life-USTC/LU_Web) <br/> RSS & TPNS: <br/> [Life-USTC/LU_RSS](https://github.com/Life-USTC/LU_RSS) | [~~Backend A~~](https://github.com/Life-USTC/LU_Notification) <br/> [~~Backend B~~](https://github.com/Life-USTC/LU_Server) |
 
-## Projects working on
+## Others
 
-### Life @ USTC
-
-* Main iOS Project:
-  * https://github.com/tiankaima/Life-USTC
-
-* Static Website:
-  * https://github.com/tiankaima/Life-USTC-Web
-
-* Push notifications to phones:
-  * https://github.com/tiankaima/Life-USTC-Bot
-
-------
-
-*In developmnet:*
-
-* Generate RSS feed from any given url:
-  * https://github.com/tiankaima/ustcFeedSource
-
-* Backing Up RSS and caching with CDN:
-  * https://github.com/tiankaima/rss-backup
-
-------
-
-*Archived:*
-
-* Backend to receive APNS token and send message, using TPNS instead.
-  * https://github.com/tiankaima/Life-USTC-Backend
-
-* Another version of that, written in swift with vapor, with user database and everything, too much work and terrible framework:
-  * https://github.com/tiankaima/Life-USTC-Server
-
-### Schoolwork
-
-* LaTeX source for some essays/thesis:
-  * https://github.com/tiankaima/thesis
-
-* Some drawings for helping classmates:
-  * https://github.com/tiankaima/latex-tests
-
-* Answers from USTC CS2021A
-  * https://github.com/tiankaima/USTC-Homework-CS2021A
-
-* Source code used when teaching others python:
-  * https://github.com/tiankaima/python-tutorial-projects
-
-### Fun
-
-* Handwriting correction to be recreated on paper:
-  * https://github.com/tiankaima/Handwriting
-
-* Quiz mini-program served for special purposes
-  * https://github.com/tiankaima/uniapp-quiz
-
-* Rythmn game charting tool:
-  * https://github.com/tiankaima/PhiStudioiOS
-  * https://github.com/tiankaima/PhiStudio-v2
-  * https://github.com/tiankaima/MStudioDocs
-
-* Backup of asoul comments, and use thme for NLP:
-  * https://github.com/tiankaima/asoul-comment
-
-* Trash:
-  * https://github.com/tiankaima/codespace-work
-
-### Fixing/Updating deprecated projects
-
-* Mobile webpage beautifier written in swift:
-  * https://github.com/tiankaima/reeeed
-
-* macOS touchbar simulator, when trying to recreate with 3rd party hardware:
-  * https://github.com/tiankaima/touch-bar-simulator
-  * https://github.com/tiankaima/KeyboardShortcuts
-
-## Sponsorship
-
-https://afdian.net/@tiankaima
+| Schoolwork | Fun | Others |
+---|---|---
+| [Some LaTeX](https://github.com/tiankaima/thesis) <br/> [Some Tikz](https://github.com/tiankaima/latex-tests) <br/> [Some python](https://github.com/tiankaima/python-tutorial-projects) <br/> [USTC CS2021A](https://github.com/tiankaima/USTC-Homework-CS2021A) | [Handwriting Correction](https://github.com/tiankaima/Handwriting) <br/> [Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz) <br/> [Comment-based NLP](https://github.com/tiankaima/asoul-comment) <br/> Rythmn game charting tool: <br/> [Main iOS Project](https://github.com/tiankaima/PhiStudioiOS) [v2](https://github.com/tiankaima/PhiStudio-v2) [Docs](https://github.com/tiankaima/MStudioDocs) | [Swift Reeeder](https://github.com/tiankaima/reeeed) <br/> macOS touchbar simulator: <br/> [software](https://github.com/tiankaima/touch-bar-simulator) [complement](https://github.com/tiankaima/KeyboardShortcuts)
 
 ## Contact
 
@@ -88,4 +18,5 @@ https://afdian.net/@tiankaima
 tiankaima A mail.ustc.edu.cn
 tiankaima A 163.com
 tiankaima A ustclug.org
+me A tiankaima.dev
 ```
