@@ -1,16 +1,43 @@
 # Projects working on
 
 ## Life @ USTC
+- [iOS App](https://github.com/Life-USTC/Life-USTC)
+- [Hugo Site](https://github.com/Life-USTC/LU_Web)
+- [RSS & Push](https://github.com/Life-USTC/LU_RSS)
+- [~~Backend A~~](https://github.com/Life-USTC/LU_Notification)
+- [~~Backend B~~](https://github.com/Life-USTC/LU_Server)
 
-| Icon |  Repo | Deprecated |
----|---|---
-|  <img src="https://github.com/Life-USTC/Life-USTC/blob/main/Docs/Assets/AppIcon.png" width="200" height="200">  | Main iOS Project: <br/> [Life-USTC/Life-USTC](https://github.com/Life-USTC/Life-USTC) <br/> Static Hugo Site: <br/> [Life-USTC/LU_Web](https://github.com/Life-USTC/LU_Web) <br/> RSS & TPNS: <br/> [Life-USTC/LU_RSS](https://github.com/Life-USTC/LU_RSS) | [~~Backend A~~](https://github.com/Life-USTC/LU_Notification) <br/> [~~Backend B~~](https://github.com/Life-USTC/LU_Server) |
+# PhiStudio
+- [iOS App](https://github.com/tiankaima/PhiStudioiOS)
+- [iOS App v2](https://github.com/tiankaima/PhiStudio-v2)
+- [Docs](https://github.com/tiankaima/MStudioDocs
+
+# macOS touchbar simulator
+- [software](https://github.com/tiankaima/touch-bar-simulator)
+- [complement](https://github.com/tiankaima/KeyboardShortcuts)
+
+## WIP projects
+- [Handwriting Correction](https://github.com/tiankaima/Handwriting)
+- [Comment-based NLP](https://github.com/tiankaima/asoul-comment)
+
 
 ## Others
+### Production-ready standalones
+[Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz)
 
-| Schoolwork | Fun | Others |
----|---|---
-| [Some LaTeX](https://github.com/tiankaima/thesis) <br/> [Some Tikz](https://github.com/tiankaima/latex-tests) <br/> [Some python](https://github.com/tiankaima/python-tutorial-projects) <br/> [USTC CS2021A](https://github.com/tiankaima/USTC-Homework-CS2021A) | [Handwriting Correction](https://github.com/tiankaima/Handwriting) <br/> [Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz) <br/> [Comment-based NLP](https://github.com/tiankaima/asoul-comment) <br/> Rythmn game charting tool: <br/> [Main iOS Project](https://github.com/tiankaima/PhiStudioiOS) [v2](https://github.com/tiankaima/PhiStudio-v2) [Docs](https://github.com/tiankaima/MStudioDocs) | [Swift Reeeder](https://github.com/tiankaima/reeeed) <br/> macOS touchbar simulator: <br/> [software](https://github.com/tiankaima/touch-bar-simulator) [complement](https://github.com/tiankaima/KeyboardShortcuts)
+### Modified OSS project
+[Swift Reeeder](https://github.com/tiankaima/reeeed)
+
+
+### Schoolwork
+- [LaTeX Notes](https://github.com/tiankaima/thesis)
+- [Typst Notes](https://github.com/tiankaima/typst-notes)
+- [Tikz Drawings](https://github.com/tiankaima/latex-tests)
+
+*Won't be updated regularly:*
+- [Python tutorials](https://github.com/tiankaima/python-tutorial-projects)
+- [USTC CS2021A Homework](https://github.com/tiankaima/USTC-Homework-CS2021A)
+
 
 ## Contact
 
