@@ -10,7 +10,7 @@
 # PhiStudio
 - [iOS App](https://github.com/tiankaima/PhiStudioiOS)
 - [iOS App v2](https://github.com/tiankaima/PhiStudio-v2)
-- [Docs](https://github.com/tiankaima/MStudioDocs
+- [Docs](https://github.com/tiankaima/MStudioDocs)
 
 # macOS touchbar simulator
 - [software](https://github.com/tiankaima/touch-bar-simulator)
