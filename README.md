@@ -3,7 +3,7 @@
 - [Typst Notes](https://github.com/tiankaima/typst-notes)
 - [Tikz Drawings](https://github.com/tiankaima/latex-tests)
 - [Jupyter Notebooks](https://github.com/tiankaima/Notebooks)
-- [Numerical Algebra](http://github.com/tiankaima/numerical_algebra)
+- [Numerical Linear Algebra](http://github.com/tiankaima/numerical_linear_algebra)
 
 ## Archived Projects
 
