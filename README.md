@@ -44,7 +44,7 @@
 <details>
 <summary> Uniapp Quiz </summary>
 
-[Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz)
+- [Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz)
 
 </details>
 
@@ -52,7 +52,7 @@
 <details>
 <summary> Modified OSS project </summary>
 
-[Swift Reeeder](https://github.com/tiankaima/reeeed)
+- [Swift Reeeder](https://github.com/tiankaima/reeeed)
 
 </details>
 
