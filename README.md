@@ -79,8 +79,9 @@
 ## Contact
 
 ```txt
-tiankaima A mail.ustc.edu.cn
-tiankaima A 163.com
-tiankaima A ustclug.org
-me A tiankaima.dev
+A&T -> @;
+D&T -> .;
+tiankaima A&T mail D&T ustc D&T edu D&T cn
+tiankaima A&T 163 D&T com
+tiankaima A&T ustclug D&T org
 ```
