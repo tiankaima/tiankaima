@@ -35,7 +35,7 @@
 
 ### 合集
 
-- [LaTeX 笔记](https://github.com/tiankaima/thesis)
+- [LaTeX 笔记](https://github.com/tiankaima/latex-notes)
 - [Typst 笔记](https://github.com/tiankaima/typst-notes)
 - [Tikz 绘图](https://github.com/tiankaima/latex-tests)
 - [Jupyter 笔记本](https://github.com/tiankaima/Notebooks)
