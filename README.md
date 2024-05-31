@@ -1,14 +1,49 @@
-## Schoolwork
-- [LaTeX Notes](https://github.com/tiankaima/thesis)
-- [Typst Notes](https://github.com/tiankaima/typst-notes)
-- [Tikz Drawings](https://github.com/tiankaima/latex-tests)
-- [Jupyter Notebooks](https://github.com/tiankaima/Notebooks)
-- [Numerical Linear Algebra](http://github.com/tiankaima/numerical_linear_algebra)
+我会在 GitHub 公开存放大部分 USTC 课程作业 / 日常项目, 这里可以作为一个基本的 Index.
 
-## Archived Projects
+## <ins>课程作业</ins>  /  Schoolwork
+
+### <ins>2024 春</ins>  /  2024 Spring
+
+- [MATH4002 算法基础](https://github.com/tiankaima/USTC_ALGO_24)
+- [DS3001 数据分析及实践](https://github.com/tiankaima/USTC_AD_24)
+- [001139 数学建模](https://github.com/tiankaima/USTC_MM_24)
+- [001065 计算机图形学](https://github.com/tiankaima/USTC_CG_24_HW)
+- [011119 人工智能基础](https://github.com/tiankaima/USTC_AI_24)
+- [Typst 笔记](https://github.com/tiankaima/typst-notes)
+
+  - MATH4002 算法基础
+  - 011119 人工智能基础
+  - 数学分析 B2 助教笔记
+
+### <ins>2023 秋</ins>  /  2023 Fall
+
+- [数值线性代数](http://github.com/tiankaima/numerical_linear_algebra)
+- [Jupyter 笔记本](https://github.com/tiankaima/Notebooks)
+
+  - 001108 数学实验
+  - 001361 符号计算软件
+  - MATH3009 微分几何
+  - MATH3012 微分方程引论
+- 数学实验 大作业
+
+  - [Qt cam](https://github.com/tiankaima/qt_cam)
+  - [Qt example proj](https://github.com/tiankaima/qt_example_proj)
+- [Typst 笔记](https://github.com/tiankaima/typst-notes)
+
+  - 001361 符号计算软件 大作业
+  - 数学分析 B1 助教笔记
+
+### 合集
+
+- [LaTeX 笔记](https://github.com/tiankaima/thesis)
+- [Typst 笔记](https://github.com/tiankaima/typst-notes)
+- [Tikz 绘图](https://github.com/tiankaima/latex-tests)
+- [Jupyter 笔记本](https://github.com/tiankaima/Notebooks)
+
+## <ins>归档项目</ins>  /  Archived Projects
 
 <details>
-<summary> Life @ USTC </summary>
+<summary> <ins>Life @ USTC</ins>  /  课程表 & 成绩单等 手机应用 </summary>
 
 - [iOS App](https://github.com/Life-USTC/Life-USTC)
 - [Hugo Site](https://github.com/Life-USTC/LU_Web)
@@ -21,7 +56,7 @@
 
 
 <details>
-<summary> PhiStudio </summary>
+<summary> <ins>PhiStudio</ins>  /  音游制谱器 TBC </summary>
 
 - [iOS App](https://github.com/tiankaima/PhiStudioiOS)
 - [iOS App v2](https://github.com/tiankaima/PhiStudio-v2)
@@ -32,7 +67,7 @@
 
 
 <details>
-<summary> macOS touchbar simulator </summary>
+<summary> <ins>macOS touchbar simulator</ins>  /  Touch Bar 模拟器 </summary>
 
 - [software](https://github.com/tiankaima/touch-bar-simulator)
 - [complement](https://github.com/tiankaima/KeyboardShortcuts)
@@ -42,7 +77,7 @@
 
 
 <details>
-<summary> Uniapp Quiz </summary>
+<summary> <ins>Uniapp Quiz</ins>  /  测验小程序 </summary>
 
 - [Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz)
 
@@ -50,7 +85,7 @@
 
 
 <details>
-<summary> Modified OSS project </summary>
+<summary> Forked OSS project </summary>
 
 - [Swift Reeeder](https://github.com/tiankaima/reeeed)
 
@@ -76,7 +111,7 @@
 </details>
 
 
-## Contact
+## <ins>联系方式</ins>  /  Contact
 
 ```txt
 A&T -> @;
