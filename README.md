@@ -2,7 +2,8 @@
 
 ## <ins>课程作业</ins>  /  Schoolwork
 
-### <ins>2024 春</ins>  /  2024 Spring
+<details>
+<summary><ins>2024 春</ins>  /  2024 Spring</summary>
 
 - [MATH4002 算法基础](https://github.com/tiankaima/USTC_ALGO_24)
 - [DS3001 数据分析及实践](https://github.com/tiankaima/USTC_AD_24)
@@ -14,8 +15,10 @@
   - MATH4002 算法基础
   - 011119 人工智能基础
   - 数学分析 B2 助教笔记
+</details>
 
-### <ins>2023 秋</ins>  /  2023 Fall
+<details>
+<summary><ins>2023 秋</ins>  /  2023 Fall</summary>
 
 - [数值线性代数](http://github.com/tiankaima/numerical_linear_algebra)
 - [Jupyter 笔记本](https://github.com/tiankaima/Notebooks)
@@ -32,6 +35,7 @@
 
   - 001361 符号计算软件 大作业
   - 数学分析 B1 助教笔记
+</details>
 
 ### 合集
 
@@ -116,7 +120,7 @@
 ```txt
 A&T -> @;
 D&T -> .;
-tiankaima A&T mail D&T ustc D&T edu D&T cn
 tiankaima A&T 163 D&T com
 tiankaima A&T ustclug D&T org
+TG A&T tiankaima
 ```
