@@ -1,10 +1,10 @@
 See also:
 <https://git.lug.ustc.edu.cn/tiankaima>
 
-- [LaTeX 笔记](https://github.com/tiankaima/latex-notes)
-- [Typst 笔记](https://github.com/tiankaima/typst-notes)
-- [Tikz 绘图](https://github.com/tiankaima/latex-tests)
-- [iOS App](https://github.com/Life-USTC/Life-USTC)
+- <https://github.com/tiankaima/latex-notes>
+- <https://github.com/tiankaima/typst-notes>
+- <https://github.com/tiankaima/md-notes>
+- <https://github.com/Life-USTC/Life-USTC>
 
 ```txt
 A&T -> @;
